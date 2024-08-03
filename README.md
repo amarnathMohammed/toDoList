@@ -1,3 +1,5 @@
+Download Node_Modules from terminal 
+use command npm install in your command line after changing the directory to current folder (the folder in which you have all the files)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
